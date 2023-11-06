@@ -6,10 +6,10 @@ Software Engineer & Blockchain Enthusiast
 
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [Coinstamp Website](http://coinstamp.me/)
-* ✉️  You can contact me at [beserkivanc@gmail.com](mailto:beserkivanc@gmail.com)
+* ✉️  You can contact me at [info@coinstamp.me](mailto:info@coinstamp.me)
 * 🚀  I'm currently working on [Mercedes Benz Turkey](http://https://www.mercedes-benz.com.tr/)
 
-<a href="https://www.twitter.com/coinstamp_" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/Coinstampp" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/coinstamp_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/kivancbeser" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/kivancbeser?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -52,7 +52,7 @@ src="https://img.shields.io/github/followers/kivancbeser?logo=github&style=for-t
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/kivancbeser" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/coinstamp_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/coinstamp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/kivancbeser" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Coinstampp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/coinstamp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
