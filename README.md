@@ -1,4 +1,4 @@
-Hi 👋 My name is Kıvanç Enes Beşer
+Hi 👋 My name is Kıvanç
 ==================================
 
 Software Engineer & Blockchain Enthusiast
