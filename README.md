@@ -7,7 +7,6 @@ Software Engineer & Blockchain Enthusiast
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [Coinstamp Website](http://coinstamp.me/)
 * ✉️  You can contact me at [info@coinstamp.me](mailto:info@coinstamp.me)
-* 🚀  I'm currently working on [Mercedes Benz Turkey](http://https://www.mercedes-benz.com.tr/)
 
 <a href="https://www.twitter.com/Coinstampp" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/coinstamp_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
