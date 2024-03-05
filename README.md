@@ -3,8 +3,6 @@ Hi 👋 My name is Kıvanç
 
 Software Engineer & Blockchain Enthusiast
 -----------------------------------------
-
-* 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [Coinstamp Website](http://coinstamp.me/)
 * ✉️  You can contact me at [info@coinstamp.me](mailto:info@coinstamp.me)
 
