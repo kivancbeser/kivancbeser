@@ -13,7 +13,7 @@ I enjoy turning complex ideas into focused, usable tools — from crypto researc
 | **Onchain Tally** | A lightweight onchain tally application built on Base. | [Live app](https://baseappcounter.vercel.app) · [Source](https://github.com/kivancbeser/baseappcounter) |
 | **Suivora** | A shared digital learning workspace for students and educators. | [Live app](https://suivora.vercel.app) · [Source](https://github.com/kivancbeser/Suivora) |
 | **NUMEON** | A personal numerology experience that turns birth-date patterns into an accessible profile. | [Live app](https://numeon.vercel.app) |
-| **Gold Price Tracker** | A Python project for following and working with gold-price data. | [Source](https://github.com/kivancbeser/gold-price-tracker) |
+| **Gold Price Tracker** | A Python project for following and working with gold-price data. | [Live app](https://kivancbeser.github.io/gold-price-tracker/) · [Source](https://github.com/kivancbeser/gold-price-tracker) |
 
 ## Blockchain & infrastructure
 
